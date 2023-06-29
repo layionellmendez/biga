@@ -6,7 +6,7 @@ import { getFirestore, collection, doc, addDoc, onSnapshot } from "https://www.g
 
 const firebaseConfig = {
     apiKey: "AIzaSyCDrX11llpK8_aTZx0VzybjjExAB3BAZuM",
-    authDomain: "biga-five.firebaseapp.com",
+    authDomain: "layionellmendez.github.io/biga",
     projectId: "biga-five",
     storageBucket: "biga-five.appspot.com",
     messagingSenderId: "490371818645",
